@@ -1,0 +1,15 @@
+{
+  "modinfoversion": 2,
+  "modlist": [{
+    "modid": "ModJam",
+    "name": "EssenceCraft",
+    "description": "Adds an exciting new dimension, along with new items and blocks! There are new ores to find and new cauldrons to build.",
+    "version": "1.0.0.0.0",
+    "mcversion": "1.6.2",
+    "url": "http://ajwgeek.com/modjam",
+    "updateUrl": "",
+    "authors": [ "Kovu", "AJWGeek", "Chef109" ],
+    "credits": "Ideas, art, and coding by Kovu, Chef109, and AJWGeek",
+    "useDependencyInformation": "true"
+  }]
+}
