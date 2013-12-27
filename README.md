@@ -1,6 +1,5 @@
-EssenceCraft
+Modjam 2
 ======
-
 1. How to compile:
 	1. Download and setup Minecraft Forge Source
 	3. Extract this code into the MCP "src" folder
