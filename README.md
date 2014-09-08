@@ -1,2 +1,1 @@
-Modjam 2 Entry: EssenceCraft
-======
+## EssenceCraft: ModJam 2 Entry
